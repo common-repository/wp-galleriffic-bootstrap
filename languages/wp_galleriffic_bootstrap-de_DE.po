@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Galleriffic Bootstrap v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-24 10:10:06+0000\n"
+"Last-Translator: admin <jenj.maat@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wp_galleriffic_bootstrap.php:46
+#@ wp_galleriffic_bootstrap
+msgid "Start"
+msgstr "Beginn"
+
+#: wp_galleriffic_bootstrap.php:47
+#@ wp_galleriffic_bootstrap
+msgid "Stop"
+msgstr "Stopp"
+
+#: wp_galleriffic_bootstrap.php:48
+#@ wp_galleriffic_bootstrap
+msgid "Vorige"
+msgstr "Früher"
+
+#: wp_galleriffic_bootstrap.php:49
+#@ wp_galleriffic_bootstrap
+msgid "Volgende"
+msgstr "Nächste"
+
+#: wp_galleriffic_bootstrap.php:50
+#@ wp_galleriffic_bootstrap
+msgid "Volgende &rsaquo;"
+msgstr "Nächste &rsaquo;"
+
+#: wp_galleriffic_bootstrap.php:51
+#@ wp_galleriffic_bootstrap
+msgid "&lsaquo; Vorige"
+msgstr "&lsaquo; Früher"
+
+#: wp_galleriffic_bootstrap_admin.php:24
+#@ wp_galleriffic_bootstrap
+msgid "Fotogalerij Instellingen"
+msgstr "Fotogalerie Einstellungen"
+
+#: wp_galleriffic_bootstrap_admin.php:27
+#@ wp_galleriffic_bootstrap
+msgid "Selecteer Afmeting"
+msgstr "Wählen Sie Größe"
+
+#: wp_galleriffic_bootstrap_admin.php:32
+#@ wp_galleriffic_bootstrap
+msgid "Medium"
+msgstr "Medium"
+
+#: wp_galleriffic_bootstrap_admin.php:33
+#@ wp_galleriffic_bootstrap
+msgid "Large"
+msgstr "Groß"
+
+#: wp_galleriffic_bootstrap_admin.php:35
+#@ wp_galleriffic_bootstrap
+msgid "Selecteer welke media afmeting voor de gallerie gebruikt moet worden."
+msgstr "Wählen Sie das Medienformat für die Galerie verwendet werden."
+
+#: wp_galleriffic_bootstrap_admin.php:37
+#@ wp_galleriffic_bootstrap
+msgid "Hoogte Caption in px"
+msgstr "Bildunterschrift Höhe in px"
+
+#: wp_galleriffic_bootstrap_admin.php:43
+#@ wp_galleriffic_bootstrap
+msgid "<p><strong>Deze foto gallerie vervangt de default WP gallerie.<?strong></p>"
+msgstr "<p><strong>Diese Fotogalerie wird die Standard-WP-Galerie zu ersetzen.<?strong></p>"
+
+#: wp_galleriffic_bootstrap_admin.php:65
+#@ default
+msgid "label"
+msgstr ""
+
+#: wp_galleriffic_bootstrap.php:190
+#@ wp_galleriffic_bootstrap
+msgid "Download Original"
+msgstr "Original herunterladen"
+
